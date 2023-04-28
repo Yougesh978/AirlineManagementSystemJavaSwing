@@ -9,7 +9,6 @@ This is a Airline Management System using Java Swing
 
 ### Passenger login
 ![image](https://user-images.githubusercontent.com/109974757/235145562-bb12c343-c114-46af-b5e6-42dce4d830af.png)
-![image](https://user-images.githubusercontent.com/109974757/235145841-2643d54c-c30a-40d9-86fe-9a4b0b1b76a2.png)
 ![image](https://user-images.githubusercontent.com/109974757/235148152-4e26726c-a5a9-4a14-9d45-f12211da6935.png)
 ![image](https://user-images.githubusercontent.com/109974757/235148242-c16ed6d8-faee-4ac0-ac2b-600ef24333c0.png)
 ![image](https://user-images.githubusercontent.com/109974757/235148358-ef32f64c-e6bc-42a4-bebf-4ffe36f2f944.png)
